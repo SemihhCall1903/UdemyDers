@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\UdemyDers\bin\Release\UdemyDersSinema.exe.config
+C:\Users\user\source\repos\UdemyDers\bin\Release\UdemyDersSinema.exe
+C:\Users\user\source\repos\UdemyDers\bin\Release\UdemyDersSinema.pdb
+C:\Users\user\source\repos\UdemyDers\obj\Release\UdemyDersSinema.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UdemyDers\obj\Release\UdemyDersSinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\UdemyDers\obj\Release\UdemyDersSinema.Chart.resources
+C:\Users\user\source\repos\UdemyDers\obj\Release\UdemyDersSinema.Context_Menu_Strip.resources
+C:\Users\user\source\repos\UdemyDers\obj\Release\UdemyDersSinema.FilmFragman.resources
+C:\Users\user\source\repos\UdemyDers\obj\Release\UdemyDersSinema.Properties.Resources.resources
+C:\Users\user\source\repos\UdemyDers\obj\Release\UdemyDersSinema.csproj.GenerateResource.cache
+C:\Users\user\source\repos\UdemyDers\obj\Release\UdemyDersSinema.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UdemyDers\obj\Release\UdemyDersSinema.exe
+C:\Users\user\source\repos\UdemyDers\obj\Release\UdemyDersSinema.pdb
